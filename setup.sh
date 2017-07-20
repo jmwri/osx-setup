@@ -1,0 +1,10 @@
+. steps/dotfiles.sh
+. steps/install_homebrew.sh
+. steps/install_iterm.sh
+. steps/install_zsh.sh
+. steps/pure_zsh.sh
+. steps/material_theme.sh
+. steps/vim.sh
+. steps/install_git.sh
+. steps/install_php.sh
+. steps/install_npm.sh
