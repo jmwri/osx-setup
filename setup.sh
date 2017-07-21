@@ -9,4 +9,5 @@
 . steps/install_git.sh
 . steps/install_php.sh
 . steps/install_npm.sh
+. steps/install_ansible.sh
 . steps/install_diff_so_fancy.sh

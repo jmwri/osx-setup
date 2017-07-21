@@ -2,6 +2,9 @@
 	name = "$OSXS_NAME"
 	email = "$OSXS_EMAIL"
 
+[commit]
+    template = "$HOME/.git_commit_template"
+
 [color]
         ui = always
 

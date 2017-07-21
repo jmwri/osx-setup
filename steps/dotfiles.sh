@@ -15,3 +15,11 @@ do
     rm -f "$HOME/$dotfile"
     envsubst < "$HOME/osx-setup/dotfiles/templates/$templatefile" > "$HOME/$templatefile"
 done
+
+declare -a mustExist=(".git_commit_template")
+for file in "${mustExist[@]}"
+do
+    echo "Touching $HOME/$file"
+    touch "$HOME/$file"
+done
+
