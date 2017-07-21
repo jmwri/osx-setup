@@ -1,5 +1,6 @@
 . steps/dotfiles.sh
 . steps/install_homebrew.sh
+. steps/install_gettext.sh
 . steps/install_iterm.sh
 . steps/install_zsh.sh
 . steps/pure_zsh.sh
@@ -8,3 +9,4 @@
 . steps/install_git.sh
 . steps/install_php.sh
 . steps/install_npm.sh
+. steps/install_diff_so_fancy.sh

@@ -1,3 +1,7 @@
+[user]
+	name = "$OSXS_NAME"
+	email = "$OSXS_EMAIL"
+
 [color]
         ui = always
 
@@ -31,7 +35,7 @@
         editor = /usr/bin/vim
         abbrev = 12
         attributesfile = ~/.gitattributes
-        excludesfile = ~/.gitignore
+	    excludesfile = ~/.gitignore_global
         autocrlf = input
         mergeoptions = --no-edit
         ignorecase = false
