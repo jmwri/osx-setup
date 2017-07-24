@@ -12,3 +12,5 @@
 . steps/install_npm.sh
 . steps/install_ansible.sh
 . steps/install_diff_so_fancy.sh
+. steps/install_virtualbox.sh
+. steps/install_vagrant.sh
