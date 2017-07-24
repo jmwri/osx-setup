@@ -1,5 +1,6 @@
 . steps/dotfiles.sh
 . steps/install_homebrew.sh
+. steps/install_wget.sh
 . steps/install_gettext.sh
 . steps/install_iterm.sh
 . steps/install_zsh.sh
