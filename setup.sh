@@ -1,3 +1,4 @@
+. steps/install_xcode.sh
 . steps/dotfiles.sh
 . steps/install_homebrew.sh
 . steps/install_wget.sh
