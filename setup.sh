@@ -16,3 +16,4 @@
 . steps/install_virtualbox.sh
 . steps/install_vagrant.sh
 . steps/install_watch.sh
+. steps/install_google_chrome.sh
