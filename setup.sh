@@ -15,3 +15,4 @@
 . steps/install_diff_so_fancy.sh
 . steps/install_virtualbox.sh
 . steps/install_vagrant.sh
+. steps/install_watch.sh
