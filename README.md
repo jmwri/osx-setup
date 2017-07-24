@@ -1,5 +1,11 @@
 # osx-setup
 
+## Update OS
+1. Apple
+2. Software update
+
+## Clone and run osx-setup
+
 ```bash
 git clone git@github.com:jmwri/osx-setup.git ~/osx-setup
 cd ~/osx-setup
