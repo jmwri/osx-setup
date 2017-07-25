@@ -1,39 +1,40 @@
 # osx-setup
 ## What is included?
 - Terminal
-    - iterm2
-    - zsh
-    - material_theme
+    - [iterm2](https://www.iterm2.com/)
+    - [zsh](http://www.zsh.org/)
+    - [material_theme](https://github.com/MartinSeeler/iterm2-material-design)
+    - [pure prompt](https://github.com/sindresorhus/pure)
 - CLI tools
-    - wget
-    - gettext
-    - watch
-    - tree
+    - [wget](https://www.gnu.org/software/wget/)
+    - [gettext](https://www.gnu.org/software/gettext/)
+    - [watch](http://www.linfo.org/watch.html)
+    - [tree](https://jpsoft.com/help/tree.htm)
 - Development tools
-    - Vim
-    - Xcode
-    - Git
-    - Diff so fancy
-    - Ansible
-    - Virtualbox
-    - Vagrant
+    - [Vim](http://www.vim.org/)
+    - [Xcode CLI tools](https://developer.apple.com/library/content/technotes/tn2339/_index.html)
+    - [Git](https://git-scm.com/)
+    - [Diff so fancy](https://github.com/so-fancy/diff-so-fancy)
+    - [Ansible](https://www.ansible.com/)
+    - [Virtualbox](https://www.virtualbox.org/)
+    - [Vagrant](https://www.vagrantup.com/)
 - Programming languages and related
-    - Python
-        - pip
-        - virtualenv
-    - PHP
-    - Node.js
-        - npm
+    - [Python](https://www.python.org/)
+        - [pip](https://pip.pypa.io)
+        - [virtualenv](https://virtualenv.pypa.io/en/stable/)
+    - [PHP](http://php.net/)
+    - [Node.js](https://nodejs.org/en/)
+        - [npm](https://www.npmjs.com/)
 - Dotfiles
     - .path
     - .zshrc
     - .gitignore_global
     - .gitconfig
     - .git_commit_template
-    - .vimrc
+    - [.vimrc](https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim)
 - Software
-    - Homebrew
-    - Google Chrome
+    - [Homebrew](https://brew.sh/)
+    - [Google Chrome](https://www.google.co.uk/chrome)
 
 ## Setup guide
 ### Update OS
