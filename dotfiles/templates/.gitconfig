@@ -63,3 +63,5 @@
 [help]
         # Correct typos
         autocorrect = 1
+[alias]
+    ticket = !sh -c "$HOME/osx-setup/git/ticket-from-branch"
