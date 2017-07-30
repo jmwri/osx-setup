@@ -1,4 +1,4 @@
-declare -a dotfiles=(".path", ".zshrc", ".gitignore_global")
+declare -a dotfiles=(".path" ".zshrc" ".gitignore_global")
 
 for dotfile in "${dotfiles[@]}"
 do
