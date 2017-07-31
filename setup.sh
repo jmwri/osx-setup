@@ -21,3 +21,4 @@
 . steps/install_tree.sh
 . steps/install_google_chrome.sh
 . steps/install_google_backup_and_sync.sh
+. steps/install_mysqlworkbench.sh

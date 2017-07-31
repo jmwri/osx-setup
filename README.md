@@ -18,6 +18,7 @@
     - [Ansible](https://www.ansible.com/)
     - [Virtualbox](https://www.virtualbox.org/)
     - [Vagrant](https://www.vagrantup.com/)
+    - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - Programming languages and related
     - [Python](https://www.python.org/)
         - [pip](https://pip.pypa.io)
@@ -35,6 +36,7 @@
 - Software
     - [Homebrew](https://brew.sh/)
     - [Google Chrome](https://www.google.co.uk/chrome)
+    - [Google Backup and Sync](https://www.google.co.uk/drive/download/)
 
 ## Setup guide
 ### Update OS
