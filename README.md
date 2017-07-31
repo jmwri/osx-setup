@@ -19,6 +19,7 @@
     - [Virtualbox](https://www.virtualbox.org/)
     - [Vagrant](https://www.vagrantup.com/)
     - [MySQL Workbench](https://www.mysql.com/products/workbench/)
+    - [Postman](https://www.getpostman.com/)
 - Programming languages and related
     - [Python](https://www.python.org/)
         - [pip](https://pip.pypa.io)
