@@ -25,6 +25,7 @@
         - [pip](https://pip.pypa.io)
         - [virtualenv](https://virtualenv.pypa.io/en/stable/)
     - [PHP](http://php.net/)
+        - [composer](https://getcomposer.org/)
     - [Node.js](https://nodejs.org/en/)
         - [npm](https://www.npmjs.com/)
 - Dotfiles
