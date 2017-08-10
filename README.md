@@ -39,6 +39,7 @@
     - [Homebrew](https://brew.sh/)
     - [Google Chrome](https://www.google.co.uk/chrome)
     - [Google Backup and Sync](https://www.google.co.uk/drive/download/)
+    - [Apache Directory Studio](http://directory.apache.org/studio/)
 
 ## Setup guide
 ### Update OS
