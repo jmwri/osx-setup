@@ -25,3 +25,4 @@
 . steps/install_mysqlworkbench.sh
 . steps/install_postman.sh
 . steps/install_apache_directory_studio.sh
+. steps/install_bettertouchtool.sh

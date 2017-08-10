@@ -40,6 +40,7 @@
     - [Google Chrome](https://www.google.co.uk/chrome)
     - [Google Backup and Sync](https://www.google.co.uk/drive/download/)
     - [Apache Directory Studio](http://directory.apache.org/studio/)
+    - [BetterTouchTool](https://www.boastr.net/)
 
 ## Setup guide
 ### Update OS
@@ -64,6 +65,10 @@ source config.sh && source setup.sh
 3. Click Import...
 4. Select the `~/osx-setup/repos/iterm2-material-design/material-design-colors.itermcolors` file...
 5. Select the `material-design-colors` from Load Presets...
+
+### BetterTouchTool
+1. BTT > Preferences
+2. Gestures > Manage Presets > Import
 
 ### Finder
 1. Open finder
