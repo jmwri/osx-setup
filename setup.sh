@@ -26,3 +26,5 @@
 . steps/install_postman.sh
 . steps/install_apache_directory_studio.sh
 . steps/install_bettertouchtool.sh
+. steps/install_intellij_phpstorm.sh
+. steps/install_intellij_pycharm.sh

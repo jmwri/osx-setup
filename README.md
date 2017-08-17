@@ -41,6 +41,9 @@
     - [Google Backup and Sync](https://www.google.co.uk/drive/download/)
     - [Apache Directory Studio](http://directory.apache.org/studio/)
     - [BetterTouchTool](https://www.boastr.net/)
+- IDE's
+    - [PhpStorm](https://www.jetbrains.com/phpstorm/)
+    - [PyCharm](https://www.jetbrains.com/pycharm/)
 
 ## Setup guide
 ### Update OS
