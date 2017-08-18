@@ -22,7 +22,7 @@
 . steps/install_tree.sh
 . steps/install_google_chrome.sh
 . steps/install_google_backup_and_sync.sh
-. steps/install_mysqlworkbench.sh
+. steps/install_sequel_pro.sh
 . steps/install_postman.sh
 . steps/install_apache_directory_studio.sh
 . steps/install_bettertouchtool.sh

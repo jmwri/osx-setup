@@ -18,8 +18,11 @@
     - [Ansible](https://www.ansible.com/)
     - [Virtualbox](https://www.virtualbox.org/)
     - [Vagrant](https://www.vagrantup.com/)
-    - [MySQL Workbench](https://www.mysql.com/products/workbench/)
+    - [Sequel Pro](https://sequelpro.com)
     - [Postman](https://www.getpostman.com/)
+    - [PhpStorm](https://www.jetbrains.com/phpstorm/)
+    - [PyCharm](https://www.jetbrains.com/pycharm/)
+    - [Apache Directory Studio](http://directory.apache.org/studio/)
 - Programming languages and related
     - [Python](https://www.python.org/)
         - [pip](https://pip.pypa.io)
@@ -39,11 +42,7 @@
     - [Homebrew](https://brew.sh/)
     - [Google Chrome](https://www.google.co.uk/chrome)
     - [Google Backup and Sync](https://www.google.co.uk/drive/download/)
-    - [Apache Directory Studio](http://directory.apache.org/studio/)
     - [BetterTouchTool](https://www.boastr.net/)
-- IDE's
-    - [PhpStorm](https://www.jetbrains.com/phpstorm/)
-    - [PyCharm](https://www.jetbrains.com/pycharm/)
 
 ## Setup guide
 ### Update OS
