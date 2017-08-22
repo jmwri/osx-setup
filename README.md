@@ -90,3 +90,11 @@ source config.sh && source setup.sh
     3. Click `Browse repositories`
     4. Install `Material Theme UI`
 2. File > Import settings > `~/osx-setup/jetbrains/phpstorm_settings.jar`
+
+## PyCharm
+1. Install the [material theme for jetbrains](https://github.com/ChrisRM/material-theme-jetbrains#installation)
+    1. `cmd` + `shift` + `a`
+    2. Search for `plugins`
+    3. Click `Browse repositories`
+    4. Install `Material Theme UI`
+2. File > Import settings > `~/osx-setup/jetbrains/pycharm_settings.jar`
