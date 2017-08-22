@@ -89,4 +89,4 @@ source config.sh && source setup.sh
     2. Search for `plugins`
     3. Click `Browse repositories`
     4. Install `Material Theme UI`
-2. File > Import settings > ~/osx-setup/jetbrains/phpstorm_settings.jar
+2. File > Import settings > `~/osx-setup/jetbrains/phpstorm_settings.jar`
