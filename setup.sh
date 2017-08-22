@@ -28,3 +28,4 @@
 . steps/install_bettertouchtool.sh
 . steps/install_intellij_phpstorm.sh
 . steps/install_intellij_pycharm.sh
+. steps/install_mongodb_compass.sh
