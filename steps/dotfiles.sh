@@ -16,6 +16,14 @@ do
     envsubst < "$HOME/osx-setup/dotfiles/templates/$templatefile" > "$HOME/$templatefile"
 done
 
+declare -a concatfiles=(".vimrc")
+
+for concatfile in "${concatfiles[@]}"
+do
+    echo "Concatenating $HOME/$concatfile with $HOME/osx-setup/dotfiles/templates/$concatfile"
+    cat "$HOME/osx-setup/dotfiles/$concatfile" >> "$HOME/$concatfile"
+done
+
 declare -a mustExist=(".git_commit_template")
 for file in "${mustExist[@]}"
 do
