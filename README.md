@@ -23,6 +23,7 @@
     - [Postman](https://www.getpostman.com/)
     - [PhpStorm](https://www.jetbrains.com/phpstorm/)
     - [PyCharm](https://www.jetbrains.com/pycharm/)
+    - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
     - [Apache Directory Studio](http://directory.apache.org/studio/)
 - Programming languages and related
     - [Python](https://www.python.org/)
