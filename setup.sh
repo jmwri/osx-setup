@@ -1,5 +1,4 @@
 . steps/install_xcode.sh
-. steps/dotfiles.sh
 . steps/install_homebrew.sh
 . steps/install_wget.sh
 . steps/install_gettext.sh
@@ -31,3 +30,4 @@
 . steps/install_intellij_idea.sh
 . steps/install_mongodb_compass.sh
 . steps/install_java.sh
+. steps/dotfiles.sh
