@@ -33,6 +33,7 @@
         - [composer](https://getcomposer.org/)
     - [Node.js](https://nodejs.org/en/)
         - [npm](https://www.npmjs.com/)
+    - [Java](https://www.java.com/en/)
 - Dotfiles
     - .path
     - .zshrc
