@@ -30,7 +30,7 @@
         - [pip](https://pip.pypa.io)
         - [virtualenv](https://virtualenv.pypa.io/en/stable/)
     - [PHP](http://php.net/)
-        - Versions 5.6, 7.0, 7.1 (selected), 7.2
+        - Versions 5.6, 7.0, 7.1 (selected), 7.2 with xdebug
         - [composer](https://getcomposer.org/)
     - [Node.js](https://nodejs.org/en/)
         - [npm](https://www.npmjs.com/)
