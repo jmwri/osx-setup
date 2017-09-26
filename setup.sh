@@ -30,4 +30,5 @@
 . steps/install_intellij_idea.sh
 . steps/install_mongodb_compass.sh
 . steps/install_java.sh
+. steps/install_slack.sh
 . steps/dotfiles.sh

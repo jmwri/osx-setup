@@ -47,6 +47,7 @@
     - [Google Chrome](https://www.google.co.uk/chrome)
     - [Google Backup and Sync](https://www.google.co.uk/drive/download/)
     - [BetterTouchTool](https://www.boastr.net/)
+    - [Slack](https://www.slack.com/)
 
 ## Setup guide
 ### Update OS
