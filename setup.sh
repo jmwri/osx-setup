@@ -31,4 +31,5 @@
 . steps/install_mongodb_compass.sh
 . steps/install_java.sh
 . steps/install_slack.sh
+. steps/install_evernote.sh
 . steps/dotfiles.sh

@@ -48,6 +48,7 @@
     - [Google Backup and Sync](https://www.google.co.uk/drive/download/)
     - [BetterTouchTool](https://www.boastr.net/)
     - [Slack](https://www.slack.com/)
+    - [Evernote](https://evernote.com/)
 
 ## Setup guide
 ### Update OS
