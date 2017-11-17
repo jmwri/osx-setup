@@ -27,7 +27,7 @@
     - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
     - [Apache Directory Studio](http://directory.apache.org/studio/)
 - Programming languages and related
-    - [Python](https://www.python.org/)
+    - [Python 2 + 3](https://www.python.org/)
         - [pip](https://pip.pypa.io)
         - [virtualenv](https://virtualenv.pypa.io/en/stable/)
     - [PHP](http://php.net/)
