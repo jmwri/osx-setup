@@ -1,1 +1,1 @@
-brew install docker
+brew cask install docker
