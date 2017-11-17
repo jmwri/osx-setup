@@ -18,6 +18,7 @@
     - [Ansible](https://www.ansible.com/)
     - [Virtualbox](https://www.virtualbox.org/)
     - [Vagrant](https://www.vagrantup.com/)
+    - [Docker](https://www.docker.com/)
     - [Sequel Pro](https://sequelpro.com)
     - [MongoDB Compass](https://www.mongodb.com/products/compass)
     - [Postman](https://www.getpostman.com/)
