@@ -50,6 +50,7 @@
     - [BetterTouchTool](https://www.boastr.net/)
     - [Slack](https://www.slack.com/)
     - [Evernote](https://evernote.com/)
+    - [Colloquy](http://colloquy.info/)
 
 ## Setup guide
 ### Update OS

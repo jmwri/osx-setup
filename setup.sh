@@ -33,4 +33,5 @@
 . steps/install_java.sh
 . steps/install_slack.sh
 . steps/install_evernote.sh
+. steps/install_colloquy.sh
 . steps/dotfiles.sh
