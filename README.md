@@ -7,6 +7,7 @@
     - [pure prompt](https://github.com/sindresorhus/pure)
 - CLI tools
     - [wget](https://www.gnu.org/software/wget/)
+    - [telnet](https://en.wikipedia.org/wiki/Telnet)
     - [gettext](https://www.gnu.org/software/gettext/)
     - [watch](http://www.linfo.org/watch.html)
     - [tree](https://jpsoft.com/help/tree.htm)
