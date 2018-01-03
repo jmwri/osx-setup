@@ -35,4 +35,5 @@
 . steps/install_slack.sh
 . steps/install_evernote.sh
 . steps/install_colloquy.sh
+. steps/install_rtv.sh
 . steps/dotfiles.sh
