@@ -30,6 +30,7 @@
 . steps/install_intellij_phpstorm.sh
 . steps/install_intellij_pycharm.sh
 . steps/install_intellij_idea.sh
+. steps/install_mongodb.sh
 . steps/install_mongodb_compass.sh
 . steps/install_java.sh
 . steps/install_slack.sh
