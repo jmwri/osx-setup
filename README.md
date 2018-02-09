@@ -11,6 +11,7 @@
     - [gettext](https://www.gnu.org/software/gettext/)
     - [watch](http://www.linfo.org/watch.html)
     - [tree](https://jpsoft.com/help/tree.htm)
+    - [twine](https://pypi.python.org/pypi/twine)
 - Development tools
     - [Vim](http://www.vim.org/)
     - [Xcode CLI tools](https://developer.apple.com/library/content/technotes/tn2339/_index.html)
@@ -43,6 +44,7 @@
     - .gitignore_global
     - .gitconfig
     - .git_commit_template
+    - .pypirc
     - [.vimrc](https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim)
 - Software
     - [Homebrew](https://brew.sh/)

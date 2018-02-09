@@ -7,7 +7,7 @@ do
     ln -s "$HOME/osx-setup/dotfiles/$dotfile" "$HOME/$dotfile"
 done
 
-declare -a templatefiles=(".gitconfig")
+declare -a templatefiles=(".gitconfig" ".pypirc")
 
 for templatefile in "${templatefiles[@]}"
 do
