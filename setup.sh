@@ -39,4 +39,5 @@
 . steps/install_colloquy.sh
 . steps/install_rtv.sh
 . steps/install_twine.sh
+. steps/install_travis.sh
 . steps/dotfiles.sh

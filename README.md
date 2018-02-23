@@ -12,6 +12,7 @@
     - [watch](http://www.linfo.org/watch.html)
     - [tree](https://jpsoft.com/help/tree.htm)
     - [twine](https://pypi.python.org/pypi/twine)
+    - [travis](https://github.com/travis-ci/travis.rb)
 - Development tools
     - [Vim](http://www.vim.org/)
     - [Xcode CLI tools](https://developer.apple.com/library/content/technotes/tn2339/_index.html)
