@@ -48,6 +48,7 @@
     - [.vimrc](https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim)
 - Software
     - [Homebrew](https://brew.sh/)
+    - [MacPass](https://macpass.github.io/)
     - [Google Chrome](https://www.google.co.uk/chrome)
     - [Google Backup and Sync](https://www.google.co.uk/drive/download/)
     - [BetterTouchTool](https://www.boastr.net/)
