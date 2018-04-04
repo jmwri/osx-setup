@@ -107,4 +107,5 @@
     # List aliases
     la = "!git config -l | grep alias | cut -c 7-"
     # Show the last tag
-    describe --tags --abbrev=0
+    lasttag = describe --tags --abbrev=0
+    lt = describe --tags --abbrev=0
