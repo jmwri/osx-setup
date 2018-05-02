@@ -28,6 +28,7 @@
     - [PhpStorm](https://www.jetbrains.com/phpstorm/)
     - [PyCharm](https://www.jetbrains.com/pycharm/)
     - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+    - [WebStorm](https://www.jetbrains.com/webstorm/)
     - [Apache Directory Studio](http://directory.apache.org/studio/)
 - Programming languages and related
     - [Python 2 + 3](https://www.python.org/)
