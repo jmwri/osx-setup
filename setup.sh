@@ -32,6 +32,7 @@
 . steps/install_intellij_pycharm.sh
 . steps/install_intellij_idea.sh
 . steps/install_intellij_webstorm.sh
+. steps/install_intellij_goland.sh
 . steps/install_mongodb.sh
 . steps/install_mongodb_compass.sh
 . steps/install_java.sh
