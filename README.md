@@ -42,6 +42,7 @@
         - [npm](https://www.npmjs.com/)
     - [Java](https://www.java.com/en/)
     - [Golang](https://golang.org/)
+        - [dep](https://github.com/golang/dep)
 - Dotfiles
     - .path
     - .zshrc
