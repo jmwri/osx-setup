@@ -12,6 +12,7 @@
 . steps/install_python.sh
 . steps/install_virtualenv.sh
 . steps/install_php.sh
+. steps/install_go.sh
 . steps/install_composer.sh
 . steps/install_npm.sh
 . steps/install_ansible.sh
