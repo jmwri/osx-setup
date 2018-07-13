@@ -29,11 +29,7 @@
 . steps/install_postman.sh
 . steps/install_apache_directory_studio.sh
 . steps/install_bettertouchtool.sh
-. steps/install_intellij_phpstorm.sh
-. steps/install_intellij_pycharm.sh
-. steps/install_intellij_idea.sh
-. steps/install_intellij_webstorm.sh
-. steps/install_intellij_goland.sh
+. steps/install_jetbrains_toolbox.sh
 . steps/install_mongodb.sh
 . steps/install_mongodb_compass.sh
 . steps/install_java.sh
