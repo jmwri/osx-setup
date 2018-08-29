@@ -32,6 +32,7 @@
 . steps/install_jetbrains_toolbox.sh
 . steps/install_mongodb.sh
 . steps/install_mongodb_compass.sh
+. steps/install_filezilla.sh
 . steps/install_java.sh
 . steps/install_slack.sh
 . steps/install_evernote.sh

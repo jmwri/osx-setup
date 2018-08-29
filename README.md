@@ -58,6 +58,7 @@
     - [Colloquy](http://colloquy.info/)
     - [RTV](https://github.com/michael-lazar/rtv)
     - [MongoDB](https://www.mongodb.com)
+    - [FileZilla](https://filezilla-project.org/)
 
 ## Setup guide
 ### Update OS
