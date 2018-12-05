@@ -3,6 +3,7 @@
 - Terminal
     - [iterm2](https://www.iterm2.com/)
     - [zsh](http://www.zsh.org/)
+    - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
     - [material_theme](https://github.com/MartinSeeler/iterm2-material-design)
     - [pure prompt](https://github.com/sindresorhus/pure)
 - CLI tools
@@ -78,11 +79,17 @@ source config.sh && source setup.sh
 ```
 
 ### iTerm
+#### Colours
 1. iTerm2 > Preferences > Profiles > Colors Tab
 2. Click Load Presets...
 3. Click Import...
 4. Select the `~/osx-setup/repos/iterm2-material-design/material-design-colors.itermcolors` file...
 5. Select the `material-design-colors` from Load Presets...
+
+#### Font
+1. iTerm2 > Preferences > Profiles > Text Tab
+2. Click Change Font...
+3. Choose `Fira Code`, with the `Retina` typeface, size `14`
 
 ### BetterTouchTool
 1. BTT > Preferences

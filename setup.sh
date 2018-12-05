@@ -5,6 +5,7 @@
 . steps/install_gettext.sh
 . steps/install_iterm.sh
 . steps/install_zsh.sh
+. steps/install_fonts.sh
 . steps/pure_zsh.sh
 . steps/material_theme.sh
 . steps/vim.sh
