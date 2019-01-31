@@ -56,7 +56,7 @@
     - [BetterTouchTool](https://www.boastr.net/)
     - [Slack](https://www.slack.com/)
     - [Evernote](https://evernote.com/)
-    - [Colloquy](http://colloquy.info/)
+    - [Textual](https://www.codeux.com/textual/)
     - [RTV](https://github.com/michael-lazar/rtv)
     - [MongoDB](https://www.mongodb.com)
     - [FileZilla](https://filezilla-project.org/)

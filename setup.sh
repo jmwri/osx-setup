@@ -37,7 +37,7 @@
 . steps/install_java.sh
 . steps/install_slack.sh
 . steps/install_evernote.sh
-. steps/install_colloquy.sh
+. steps/install_textual.sh
 . steps/install_rtv.sh
 . steps/install_twine.sh
 . steps/install_travis.sh
