@@ -32,6 +32,7 @@ plugins=(
   npm
   pip
   python
+  golang
 
   zsh-autosuggestions
   zsh-syntax-highlighting
