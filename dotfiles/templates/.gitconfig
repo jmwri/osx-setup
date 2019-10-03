@@ -73,6 +73,8 @@
     di = diff
     dw = diff --word-diff
     dc = diff --cached
+    dis = diff --shortstat
+    dcs = diff --cached --shortstat
     unstage = reset HEAD --
     last = log -1 HEAD
     # List commits in short form, with colors and branch/tag annotations
